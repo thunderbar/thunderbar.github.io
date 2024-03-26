@@ -18,11 +18,16 @@ header{
     font-size: 25px;
 }
 
+h1{
+    font-size: 40px;
+    color:cornflowerblue;   
+}
+
 button {
     padding: 1rem 3rem;
     font-size: 1rem;
     border: none;
-    color: #222;
+    color: #eee;
     background-color: #333;
     cursor: pointer;
 }

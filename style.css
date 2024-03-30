@@ -30,6 +30,12 @@ button {
     color: #eee;
     background-color: #333;
     cursor: pointer;
+    
+}
+
+button:hover{
+    background-color:#fff;
+    color:#333
 }
 
 .header-dark{

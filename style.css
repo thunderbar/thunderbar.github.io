@@ -2,6 +2,8 @@
 font-size: 22px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 line-height: 1.5;
+vertical-align: baseline;
+box-sizing: border-box;
 }
 
 body {
@@ -19,7 +21,7 @@ img {
 header{
     padding: 20px;
     text-align: right;
-    background: #333;
+    background: hsl(0, 0%, 20%);
     color: white;
     font-size: 25px;
 }

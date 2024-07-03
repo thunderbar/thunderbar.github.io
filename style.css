@@ -46,9 +46,19 @@ button:hover{
     color:#333
 }
 
+.hr-blue{
+    color: cornflowerblue;
+}
+
 .header-dark{
     background:#333;
      color:white;
+    padding:5px;
+}
+
+.footer-dark{
+    background:#333;
+    color:white;
     padding:5px;
 }
 

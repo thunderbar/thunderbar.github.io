@@ -18,13 +18,7 @@ img {
     margin-right: auto;
 }
 
-header{
-    padding: 20px;
-    text-align: right;
-    background: hsl(0, 0%, 20%);
-    color: white;
-    font-size: 25px;
-}
+
 
 h1{
     font-size: 40px;
@@ -46,6 +40,16 @@ button:hover{
     color:#333
 }
 
+.blog{
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 674px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+}
+
 .hr-blue{
     color: cornflowerblue;
 }
@@ -54,6 +58,7 @@ button:hover{
     background:#333;
      color:white;
     padding:5px;
+    text-align: right;
 }
 
 .footer-dark{
@@ -73,6 +78,11 @@ button:hover{
     -webkit-transition-timing-function: ease; 
     } 
 
+    .blog-container{
+        display: inline;
+
+    }
+
     .thumbnail:hover { 
-    transform: scale(2); 
+    transform: scale(1.5); 
 }
